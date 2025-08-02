@@ -236,7 +236,7 @@ GameObject:
   - component: {fileID: 40288862}
   - component: {fileID: 40288861}
   m_Layer: 0
-  m_Name: TrajectorieVisualization
+  m_Name: TrajectoryVisualization
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
