@@ -1,0 +1,58 @@
+# === Unity Generated Folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# === User-specific Files ===
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# === Rider / VSCode ===
+.idea/
+.vscode/
+*.code-workspace
+
+# === Unity Cache / Metadata ===
+*.apk
+*.aab
+*.unitypackage
+
+# === Unity Package Manager ===
+Packages/packages-lock.json
+
+# === Optional: Ignore Assembly Definition Metadata ===
+*.asmdef
+*.asmdef.meta
+
+# === Visual Scripting ===
+VisualScripting/
+
+# === Crash Reports ===
+sysinfo.txt
+
+# === OS Specific ===
+.DS_Store
+Thumbs.db
+
+# === Platform-specific ===
+.vs/
+
+# === Backup files ===
+*.bak
+*.orig
+
+# /Assets/Data/
