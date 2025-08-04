@@ -10,6 +10,8 @@ press("n") to show the next trajectory
 
 press("a") to show all the trajectories you input
 
+press("c") to clear all the trajectories
+
 Display1
 ![image](Image/F2-1.png)
 
